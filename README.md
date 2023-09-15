@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Deborah
 #### Data Analyst
+
 I'm a data analyst with a background (PhD) in philosophy of science.
 
 Skills: Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machine Learning
@@ -28,7 +29,3 @@ Skills: Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dlhaar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/deborahlhaar//)  
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlhaar&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dlhaar)  
