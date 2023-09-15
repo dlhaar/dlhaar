@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Deborah Haar
 
-I'm a data analyst with a background (PhD) in philosophy of science. I have experience building datapipelines, conducting exploratory data analysis, statistical analysis, building machine learning models and visualizing with Tableau.
+I'm a data analyst with a background (PhD) in philosophy of science. I have experience building data pipelines, conducting exploratory data analysis, statistical analysis, building machine learning models and visualizing with Tableau.
 
 ## Skills
 
