@@ -12,19 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Data Analyst](https://github.com/dlhaar/dlhaar/blob/main/blue_banner.png)
 
-### Hi there 👋, I'm Deborah
-#### Data Analyst
+# Deborah Haar
 
-I'm a data analyst with a background (PhD) in philosophy of science.
+I'm a data analyst with a background (PhD) in philosophy of science. I have experience building datapipelines, conducting exploratory data analysis, statistical analysis, building machine learning models and visualizing with Tableau.
 
-Skills: Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machine Learning
+## Skills
 
-- 🔭 I’m currently working on finding a new job.
-- 🌱 I’m currently learning Operations Analytics on Coursera.
-- 📫 How to reach me: dlhaar@gmail.com 
-- 😄 Pronouns: she/her 
+Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machine Learning
+
+## Examples of Work
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dlhaar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/deborahlhaar//)  
