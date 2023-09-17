@@ -19,8 +19,8 @@ I'm a junior data analyst with a background (PhD) in philosophy of science inter
 
 - 🔭 I’m currently working on an exploratory data analysis of the Kaggle Superstore data set
 - 🌱 I’m currently learning forecasting for operations analytics and business German
--  💬 I speak English, French, Porguese and German (B1)
--  📌 I am currently looking for a new opportunity
+-  💬 I speak English, French, Portuguese and German (B1)
+-  📌 I am currently looking for new opportunities
 -  📫 [How to reach me](mailto:dlhaar@gmail.com)
 
 ## Skills
