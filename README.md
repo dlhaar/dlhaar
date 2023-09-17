@@ -24,7 +24,7 @@ I'm a junior data analyst with a background (PhD) in philosophy of science inter
 
 ## Skills
 
-Excel / Python / SQL / Tableau / Snowflake / Exploratory Data Analysis / Statistical Testing / Machine Learning
+Excel / Python / SQL / Tableau / Snowflake / git / Exploratory Data Analysis / Statistical Testing / Machine Learning
 
 ## Examples of work
 
