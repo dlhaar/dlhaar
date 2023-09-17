@@ -27,14 +27,14 @@ Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machine Learn
 
 ## Examples of work
 
-- Tableau dashboard of German Energy Market from 2017-2022
-  - Energy production data and energy prices gathered from SMARD and DeStatis and visualized with Tableau. Notable findings include solar energy production was 19% greater in 2022 than the prior year.
+- [Tableau dashboard of German Energy Market from 2017-2022](https://github.com/dlhaar/electricity-analysis)
+  - Energy production data and energy prices gathered from SMARD and DeStatis and visualized with Tableau. Notable findings include solar energy production was 19% greater in 2022 than the prior year. [Tableau Public](https://public.tableau.com/app/profile/deborah.haar/viz/smard_electricity_germany/ElectricitygenerationandconsumptioninGermany2017-2022)
 
-- SpotiFind song recommendation app
+- [SpotiFind song recommendation app](https://github.com/dlhaar/song_recommender)
   - Provides Spotify song recommendations based on user song input. App was built with song data gathered via web scraping (BeautifulSoup) and the Spotify API. Songs are modeled based on five musical features using KMeans clustering. App interface developed with Streamlit.
 
-- Citi Bikes rental predictor
-  - Predicts the number of rides based the station, day of week and weather metrics. Dataset (45+M rows) was prepped using Polars. KNN regression, Random Forest and Gradient Boost models were tested. Random Forest yielded best results with a test set R2 0.79.![image](https://github.com/dlhaar/dlhaar/assets/55834403/973e8568-b891-4364-9198-0c090cb42dd1)
+- [Citi Bikes rental predictor](https://github.com/dlhaar/citi_bikes)
+  - Predicts the number of rides based the station, day of week and weather metrics. Dataset (45+M rows) was prepped using Polars. KNN regression, Random Forest and Gradient Boost models were tested. Random Forest yielded best results with R2 0.79 and RMSE 3.
 
 
 
