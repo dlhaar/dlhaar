@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 
 # Deborah Haar
 
-I'm a junior data analyst with a background (PhD) in philosophy of science with a passion for :electron: energy  and 🚲 transportation issues. I have experience in the Tech and Manufacturing sectors building data pipelines, conducting exploratory data analysis, statistical analysis, building machine learning models and visualizing with Tableau.
+I'm a junior data analyst with a background (PhD) in philosophy of science interested in :electron: energy  and 🚲 transportation issues. I have experience in the Tech and Manufacturing sectors building data pipelines, conducting exploratory data analysis, statistical analysis, building machine learning models and visualizing with Tableau.
 
 - 🔭 I’m currently working on an exploratory data analysis of the Kaggle Superstore data set
 - 🌱 I’m currently learning forecasting for operations analytics and business German
 -  💬 I speak English, French, Porguese and German (B1)
+-  📫 [How to reach me](dlhaar@gmail.com)
 
 ## Skills
 
-Excel / Python / SQL / Tableau / Snowflake / Statistical Testing / Machine Learning
+Excel / Python / SQL / Tableau / Snowflake / Exploratory Data Analysis / Statistical Testing / Machine Learning
 
 ## Examples of work
 
